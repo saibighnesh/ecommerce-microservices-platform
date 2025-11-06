@@ -120,6 +120,3 @@ This project demonstrates:
 ## 👤 Author
 
 **Simadri Sai Bighnesh Prusty**
-- LinkedIn: [linkedin.com/in/sahilprusty](https://linkedin.com/in/sahilprusty)
-- GitHub: [@saibighnesh](https://github.com/saibighnesh)
-- Email: prustysiladitya@gmail.com
